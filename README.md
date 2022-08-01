@@ -45,7 +45,7 @@
 
             int ifade = 999;
             instance.ekranaYazdir(ifade);
-            instance.ekranaYazdir("Umut ", "Yıldız");
+            instance.ekranaYazdir("Yazar ", "Yıldız");
             Console.ReadLine();
             //metot imzası aynı olmazsa kabul etmez
             //metot imzası: metotAdı + parametreSayısı + parametre
