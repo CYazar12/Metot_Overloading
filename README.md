@@ -1,12 +1,10 @@
 # Metot_Overloading
-Metot OverLoading
 
-´´´ 
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+´´´ using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Text;
+    using System.Threading.Tasks;
 
 namespace Metot_Overloading
 {
@@ -66,5 +64,4 @@ namespace Metot_Overloading
             Console.WriteLine(veri1 + veri2);
         }
     }
-}
-´´´
+}´´´
